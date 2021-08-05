@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\WebWorkingDB\WebWorkingDB\bin\WebWorkingDB.dll.config
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\WebWorkingDB\WebWorkingDB\bin\WebWorkingDB.dll
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\WebWorkingDB\WebWorkingDB\bin\WebWorkingDB.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\WebWorkingDB\WebWorkingDB\obj\Debug\WebWorkingDB.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\WebWorkingDB\WebWorkingDB\obj\Debug\WebWorkingDB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\WebWorkingDB\WebWorkingDB\obj\Debug\WebWorkingDB.dll
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\WebWorkingDB\WebWorkingDB\obj\Debug\WebWorkingDB.pdb

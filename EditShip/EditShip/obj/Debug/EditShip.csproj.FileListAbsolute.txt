@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\EditShip\EditShip\obj\Debug\EditShip.Form1.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\EditShip\EditShip\obj\Debug\EditShip.Properties.Resources.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\EditShip\EditShip\obj\Debug\EditShip.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\EditShip\EditShip\obj\Debug\EditShip.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\EditShip\EditShip\obj\Debug\EditShip.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\EditShip\EditShip\bin\Debug\EditShip.exe.config
+C:\Users\Admin\Documents\PRN292-Summer2021\EditShip\EditShip\bin\Debug\EditShip.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\EditShip\EditShip\bin\Debug\EditShip.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\EditShip\EditShip\obj\Debug\EditShip.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\EditShip\EditShip\obj\Debug\EditShip.pdb

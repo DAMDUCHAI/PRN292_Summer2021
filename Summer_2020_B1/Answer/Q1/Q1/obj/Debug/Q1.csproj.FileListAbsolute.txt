@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B1\Answer\Q1\Q1\bin\Debug\Q1.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B1\Answer\Q1\Q1\bin\Debug\Q1.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B1\Answer\Q1\Q1\obj\Debug\Q1.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B1\Answer\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B1\Answer\Q1\Q1\obj\Debug\Q1.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B1\Answer\Q1\Q1\obj\Debug\Q1.pdb

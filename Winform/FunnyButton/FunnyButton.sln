@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunnyButton", "FunnyButton\FunnyButton.csproj", "{195678CC-6C53-475E-8F8B-5778DFF0BBE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{195678CC-6C53-475E-8F8B-5778DFF0BBE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195678CC-6C53-475E-8F8B-5778DFF0BBE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195678CC-6C53-475E-8F8B-5778DFF0BBE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195678CC-6C53-475E-8F8B-5778DFF0BBE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05ABCE9B-8DDA-49C9-B242-08D9BD20DE5D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q3_Web\Q3_Web\bin\Q3_Web.dll.config
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q3_Web\Q3_Web\bin\Q3_Web.dll
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q3_Web\Q3_Web\bin\Q3_Web.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q3_Web\Q3_Web\obj\Debug\Q3_Web.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q3_Web\Q3_Web\obj\Debug\Q3_Web.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q3_Web\Q3_Web\obj\Debug\Q3_Web.dll
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q3_Web\Q3_Web\obj\Debug\Q3_Web.pdb

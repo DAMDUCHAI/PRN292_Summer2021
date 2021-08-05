@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\ex4_fundament\ex4_fundament\bin\Debug\ex4_fundament.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\ex4_fundament\ex4_fundament\bin\Debug\ex4_fundament.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\ex4_fundament\ex4_fundament\obj\Debug\ex4_fundament.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\ex4_fundament\ex4_fundament\obj\Debug\ex4_fundament.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\ex4_fundament\ex4_fundament\obj\Debug\ex4_fundament.pdb

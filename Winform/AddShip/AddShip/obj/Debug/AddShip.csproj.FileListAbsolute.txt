@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\AddShip\AddShip\obj\Debug\AddShip.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\AddShip\AddShip\obj\Debug\AddShip.Form1.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\AddShip\AddShip\obj\Debug\AddShip.Properties.Resources.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\AddShip\AddShip\obj\Debug\AddShip.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\AddShip\AddShip\obj\Debug\AddShip.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\AddShip\AddShip\bin\Debug\AddShip.exe.config
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\AddShip\AddShip\bin\Debug\AddShip.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\AddShip\AddShip\bin\Debug\AddShip.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\AddShip\AddShip\obj\Debug\AddShip.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\AddShip\AddShip\obj\Debug\AddShip.pdb

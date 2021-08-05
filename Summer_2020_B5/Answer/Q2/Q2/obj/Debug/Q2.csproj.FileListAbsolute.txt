@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q2\Q2\bin\Debug\Q2.exe.config
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q2\Q2\bin\Debug\Q2.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q2\Q2\bin\Debug\Q2.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q2\Q2\obj\Debug\Q2.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q2\Q2\obj\Debug\Q2.Form1.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q2\Q2\obj\Debug\Q2.Properties.Resources.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q2\Q2\obj\Debug\Q2.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q2\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q2\Q2\obj\Debug\Q2.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Summer_2020_B5\Answer\Q2\Q2\obj\Debug\Q2.pdb

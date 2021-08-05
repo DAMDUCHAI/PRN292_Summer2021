@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\systemLogin\systemLogin\bin\Debug\systemLogin.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\systemLogin\systemLogin\bin\Debug\systemLogin.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\systemLogin\systemLogin\obj\Debug\systemLogin.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\systemLogin\systemLogin\obj\Debug\systemLogin.Form1.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\systemLogin\systemLogin\obj\Debug\systemLogin.frmMain.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\systemLogin\systemLogin\obj\Debug\systemLogin.Properties.Resources.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\systemLogin\systemLogin\obj\Debug\systemLogin.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\systemLogin\systemLogin\obj\Debug\systemLogin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\systemLogin\systemLogin\obj\Debug\systemLogin.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\systemLogin\systemLogin\obj\Debug\systemLogin.pdb

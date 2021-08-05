@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\Ship_Web\Ship_Web\Ship_Web\bin\Ship_Web.dll.config
+C:\Users\Admin\Documents\PRN292-Summer2021\Ship_Web\Ship_Web\Ship_Web\bin\Ship_Web.dll
+C:\Users\Admin\Documents\PRN292-Summer2021\Ship_Web\Ship_Web\Ship_Web\bin\Ship_Web.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Ship_Web\Ship_Web\Ship_Web\obj\Debug\Ship_Web.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Ship_Web\Ship_Web\Ship_Web\obj\Debug\Ship_Web.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Ship_Web\Ship_Web\Ship_Web\obj\Debug\Ship_Web.dll
+C:\Users\Admin\Documents\PRN292-Summer2021\Ship_Web\Ship_Web\Ship_Web\obj\Debug\Ship_Web.pdb

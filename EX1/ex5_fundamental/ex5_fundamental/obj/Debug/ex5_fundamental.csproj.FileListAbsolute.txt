@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\ex5_fundamental\ex5_fundamental\bin\Debug\ex5_fundamental.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\ex5_fundamental\ex5_fundamental\bin\Debug\ex5_fundamental.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\ex5_fundamental\ex5_fundamental\obj\Debug\ex5_fundamental.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\ex5_fundamental\ex5_fundamental\obj\Debug\ex5_fundamental.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\ex5_fundamental\ex5_fundamental\obj\Debug\ex5_fundamental.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\ex5_fundamental\ex5_fundamental\obj\Debug\ex5_fundamental.pdb

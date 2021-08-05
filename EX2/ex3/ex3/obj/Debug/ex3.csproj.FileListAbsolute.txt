@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\EX2\ex3\ex3\bin\Debug\ex3.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\EX2\ex3\ex3\bin\Debug\ex3.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\EX2\ex3\ex3\obj\Debug\ex3.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\EX2\ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\EX2\ex3\ex3\obj\Debug\ex3.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\EX2\ex3\ex3\obj\Debug\ex3.pdb

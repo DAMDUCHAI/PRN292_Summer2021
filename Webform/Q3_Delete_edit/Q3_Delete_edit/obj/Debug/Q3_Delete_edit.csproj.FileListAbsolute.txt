@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\Q3_Delete_edit\Q3_Delete_edit\bin\Debug\Q3_Delete_edit.exe.config
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\Q3_Delete_edit\Q3_Delete_edit\bin\Debug\Q3_Delete_edit.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\Q3_Delete_edit\Q3_Delete_edit\bin\Debug\Q3_Delete_edit.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\Q3_Delete_edit\Q3_Delete_edit\obj\Debug\Q3_Delete_edit.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\Q3_Delete_edit\Q3_Delete_edit\obj\Debug\Q3_Delete_edit.Form1.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\Q3_Delete_edit\Q3_Delete_edit\obj\Debug\Q3_Delete_edit.Properties.Resources.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\Q3_Delete_edit\Q3_Delete_edit\obj\Debug\Q3_Delete_edit.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\Q3_Delete_edit\Q3_Delete_edit\obj\Debug\Q3_Delete_edit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\Q3_Delete_edit\Q3_Delete_edit\obj\Debug\Q3_Delete_edit.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\Q3_Delete_edit\Q3_Delete_edit\obj\Debug\Q3_Delete_edit.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Webform\Q3_Delete_edit\Q3_Delete_edit\obj\Debug\Q3_Delete_edit.Update.resources

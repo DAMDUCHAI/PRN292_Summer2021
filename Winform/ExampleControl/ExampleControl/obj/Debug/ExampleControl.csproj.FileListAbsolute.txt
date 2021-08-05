@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\ExampleControl\ExampleControl\bin\Debug\ExampleControl.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\ExampleControl\ExampleControl\bin\Debug\ExampleControl.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\ExampleControl\ExampleControl\obj\Debug\ExampleControl.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\ExampleControl\ExampleControl\obj\Debug\ExampleControl.Form1.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\ExampleControl\ExampleControl\obj\Debug\ExampleControl.Properties.Resources.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\ExampleControl\ExampleControl\obj\Debug\ExampleControl.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\ExampleControl\ExampleControl\obj\Debug\ExampleControl.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\ExampleControl\ExampleControl\obj\Debug\ExampleControl.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\ExampleControl\ExampleControl\obj\Debug\ExampleControl.pdb

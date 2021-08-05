@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\Product_WF\Product_WF\bin\Debug\Product_WF.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Product_WF\Product_WF\bin\Debug\Product_WF.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Product_WF\Product_WF\obj\Debug\Product_WF.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Product_WF\Product_WF\obj\Debug\Product_WF.Form1.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Product_WF\Product_WF\obj\Debug\Product_WF.Properties.Resources.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Product_WF\Product_WF\obj\Debug\Product_WF.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Product_WF\Product_WF\obj\Debug\Product_WF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Product_WF\Product_WF\obj\Debug\Product_WF.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Product_WF\Product_WF\obj\Debug\Product_WF.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Product_WF\Product_WF\bin\Debug\Product_WF.exe.config

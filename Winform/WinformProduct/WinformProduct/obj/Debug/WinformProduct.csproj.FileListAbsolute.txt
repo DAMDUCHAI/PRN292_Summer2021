@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\WinformProduct\WinformProduct\bin\Debug\WinformProduct.exe.config
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\WinformProduct\WinformProduct\bin\Debug\WinformProduct.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\WinformProduct\WinformProduct\bin\Debug\WinformProduct.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\WinformProduct\WinformProduct\obj\Debug\WinformProduct.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\WinformProduct\WinformProduct\obj\Debug\WinformProduct.frmMain.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\WinformProduct\WinformProduct\obj\Debug\WinformProduct.Properties.Resources.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\WinformProduct\WinformProduct\obj\Debug\WinformProduct.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\WinformProduct\WinformProduct\obj\Debug\WinformProduct.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\WinformProduct\WinformProduct\obj\Debug\WinformProduct.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\WinformProduct\WinformProduct\obj\Debug\WinformProduct.pdb

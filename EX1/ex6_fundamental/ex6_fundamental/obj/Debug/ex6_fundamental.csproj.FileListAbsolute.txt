@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\ex6_fundamental\ex6_fundamental\obj\Debug\ex6_fundamental.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\ex6_fundamental\ex6_fundamental\bin\Debug\ex6_fundamental.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\ex6_fundamental\ex6_fundamental\bin\Debug\ex6_fundamental.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\ex6_fundamental\ex6_fundamental\obj\Debug\ex6_fundamental.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\ex6_fundamental\ex6_fundamental\obj\Debug\ex6_fundamental.pdb

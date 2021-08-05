@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\EX2\ex6\ex6\bin\Debug\ex6.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\EX2\ex6\ex6\bin\Debug\ex6.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\EX2\ex6\ex6\obj\Debug\ex6.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\EX2\ex6\ex6\obj\Debug\ex6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\EX2\ex6\ex6\obj\Debug\ex6.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\EX2\ex6\ex6\obj\Debug\ex6.pdb

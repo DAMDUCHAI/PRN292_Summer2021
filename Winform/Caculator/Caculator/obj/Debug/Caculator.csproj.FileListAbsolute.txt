@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\Caculator\Caculator\bin\Debug\Caculator.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\Caculator\Caculator\bin\Debug\Caculator.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\Caculator\Caculator\obj\Debug\Caculator.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\Caculator\Caculator\obj\Debug\Caculator.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\Caculator\Caculator\obj\Debug\Caculator.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\Winform\Caculator\Caculator\obj\Debug\Caculator.FrmCaculator.resources

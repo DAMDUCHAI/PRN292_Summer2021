@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\PRN292-Summer2021\ex2_fundamental\ex2_fundamental\bin\Debug\ex2_fundamental.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\ex2_fundamental\ex2_fundamental\bin\Debug\ex2_fundamental.pdb
+C:\Users\Admin\Documents\PRN292-Summer2021\ex2_fundamental\ex2_fundamental\obj\Debug\ex2_fundamental.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\ex2_fundamental\ex2_fundamental\obj\Debug\ex2_fundamental.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN292-Summer2021\ex2_fundamental\ex2_fundamental\obj\Debug\ex2_fundamental.exe
+C:\Users\Admin\Documents\PRN292-Summer2021\ex2_fundamental\ex2_fundamental\obj\Debug\ex2_fundamental.pdb
